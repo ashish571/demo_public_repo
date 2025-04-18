@@ -10,7 +10,7 @@ This is a Temp Demo Public Repo - Just to Explain the Fact that - My (Ash Cunard
 <p/>
 
 <p>
-	Taking "Wikileaks", e.g., To Prevent it happening ever again, is Simple - Use My GITHub Personal Repo. Thats it So Simple, yet Highly Secure, yet Tight Fine Grained Access Control that too I will decide to whom to Give Access But At the Exact same time, this particular one, is just a public domain. So in short, lot of flexibility to support a variety of use cases including Unlimited Storage Space with Very Reasonable and Affordable Subscription (even by default, its way More than - So even Subscription is just Never needed). If you want to listen further, the list goes on, It's a Product of a Extreme CS Engineering yet very simple to end user!!
+	Taking "Wikileaks", e.g., To Prevent it happening ever again, is Simple - Use My GITHub Personal Repo. Thats it So Simple, yet Highly Secure, yet Tight Fine Grained Access Control that too I will decide to whom to Give Access But At the Exact same time, this particular one, is just a public domain. Also, even if someone gets the password, there is no worry since, password alone is useless. So in short, lot of flexibility to support a variety of use cases including Unlimited Storage Space with Very Reasonable and Affordable Subscription (even by default, its way More than - So even Subscription is just Never needed). If you want to listen further, the list goes on, It's a Product of a Extreme CS Engineering yet very simple to end user!!
 <p/>
 
 
